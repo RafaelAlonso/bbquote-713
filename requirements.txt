@@ -12,3 +12,4 @@ pytest
 yapf
 
 requests
+streamlit
